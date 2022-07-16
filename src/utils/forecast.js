@@ -22,7 +22,7 @@ const forecast = (lat, long, callback) => {
           temperature +
           " degres.It feels like " +
           feelslike +
-          " degres out."
+          " degres out. Cheers!"
       );
     }
   });
