@@ -37,7 +37,7 @@ app.get("", (req, res) => {
 app.get("/about", (req, res) => {
   res.render("about", {
     title: "ABout me",
-    name: "We dont want dto know",
+    name: "Flouz-Ai",
   });
 });
 
